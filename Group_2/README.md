@@ -1,53 +1,107 @@
-# DSI-Africa: First Human Genome Repeat Expansions Analysis Virtual Workshop
-
-![Figure Banner](https://github.com/ItunuIsewon/DS-I_Africa_Repeats_Workshop2024/blob/main/Images/dsi-africa-workshop-banner.png)
-
-
-Four Universities, Covenant University, Makerere University, the University of Cape Town (UCT), and the University of California, San Diego (UCSD) are collaborating to present a two-week virtual workshop on repeat expansion detection and complex phenotypes association in Africa. This workshop is funded by the R01 DS-I Africa award number 1U01HG013442-01 and you can find more information about it at https://h3africa.org/index.php/2022/09/14/h3africa-cross-consortium-genome-analysis-of-repeat-expansions-in-wgs-data-project-spotlight/ and https://dsi-africa.org/project/28
+# DSI_Project_Group_2
+The Identification of pathogenic disease-associated short tandem repeats(STRs) in clinical samples
 
 
-## Lecturers & Assistants:
-+ Prof. Adebiyi Ezekiel, Nigeria
-+ Prof. Melissa Gymrek, US
-+ Dr. Daudi Jjingo, Uganda
-+ Dr. Melissa Nel, South Africa
-+ Prof. Oyelade Olanrewaju, Nigeria
-+ Dr. Li Yang, US
-+ Ms Helyaneh Ziaei-jam, US
-+ Dr. Marion Adebiyi, Nigeria
-+ Dr. Yagoub Adam, Sudan
-+ Dr. Isewon Itunuoluwa, Nigeria
-+ Mr. Ibra Lujumba, Uganda
-+ Ms. Nomakhosazana Monnakgotla, South Africa
 
-## Course content
+# Project1: Expansion Hunter Workflow
 
-The workshop will last for 10 days, which is equivalent to two weeks.
+This project involves the analysis of repeat expansions in genome sequences using ExpansionHunter, Samtools, and REViewer. Below are the step-by-step instructions to run the tools and the expected outcomes for the samples analyzed.
 
-### Module One – Introduction (Day 1 and 2)
-+ A brief review of NGS and its technologies, genotyping, genetic variation and its types, resources, and databases for NGS
-+ Bash/shell scripting, working in batch environment, job submission on HPC, installing software and tools using command line
-+ NGS file format, NGS analysis tools, e.g., bcftools
+## Tools Directory
 
-### Module Two – Overview of Tandem Repeats (Day 3 and 4)
-+ Description of tandem repeats, types of TRs and their characteristics, applications of TRs in health research
-+ Short TRs (STRs) genotyping, tools for identifying STRs: strengths and weakness
+The following tools are located in `/home/dsi-student4/bin`:
 
-### Module Three – STRs Analysis (Day 5 – 7)
-+ Software Installation of selected tools
-+ STRs identification using selected tools, at least two
-+ Functional annotation of identified STRs
-+ Association Analysis
+- ExpansionHunter
+- Samtools
+- REViewer
 
-### Module Four  – Hackathon (Day 8 – 10)
-+ Brief description of the projects (motivation, datasets, methods, milestones, expected results, etc) – (to be done on Day 4)
-+ Assigning the participants into groups and one teaching assistant per group – (to be done on Day 4)
-+ Project teams start meeting up with their teaching assistants after the daily sessions as from Day 5.
-+ Participants work in groups.
-+ Daily review of work done to be presented by a group representative following the milestones/deliverables for each day.
-+ Presentation of project outcomes and submission of project write-up
-+ Announcement of hackathon results
+## Workflow Steps - Manually running the workflow
 
-### Invited Talks from Keynote and invited  speakers (30-minute – 1-hour slots will be created as needed during the workshop)
-We expect to have invited talks from selected PhD students, Postdocs, and keynote speakers on selected topics relating to TRs identification.
-Potential speakers are those who have developed tools/databases for TRs and those who have used the tools for TRs analyses, etc.
+### 1. Run ExpansionHunter
+
+Run ExpansionHunter on each sample to detect repeat expansions. The output will include VCF, JSON, and BAM files with read realignments at repeat regions.
+
+```bash
+/home/dsi-student4/bin/ExpansionHunter \
+  --reads ~/public/project1-expansions/ERR1955415.bam \
+  --reference ~/public/genomes/GRCh37.fa \
+  --variant-catalog ~/public/project1-expansions/variant_catalog/grch37/variant_catalog.json \
+  --output-prefix ERR1955415
+
+```
+## Step 2: Sort BAM File
+## Sort the realigned BAM file using SAMtools.
+
+```sh
+/home/dsi-student4/bin/samtools sort -o ERR1955415_realigned.sorted.bam ERR1955415_realigned.bam
+```
+## Step 3: Index BAM File
+# Index the sorted BAM file using SAMtools.
+
+```sh
+/home/dsi-student4/bin/samtools index ERR1955415_realigned.sorted.bam
+```
+
+## Step 4: Run REViewer
+# Use REViewer to generate visualizations for the specified locus.
+
+```sh
+/home/dsi-student4/bin/REViewer \
+  --reads ERR1955415_realigned.sorted.bam \
+  --vcf ERR1955415.vcf \
+  --reference ~/public/genomes/GRCh37.fa \
+  --catalog ~/public/project1-expansions/variant_catalog/grch37/variant_catalog.json \
+  --locus C9ORF72 \
+  --output-prefix ERR1955415
+  ```
+
+
+## Dataset Information
+
+# Normal Samples
+- ERR1955514.bam - Not Pathogenic
+- ERR1955398.bam - Not Pathogenic
+- ERR1955482 - Not Pathogenic (Processed)
+- ERR1955424 - Not Pathogenic (Processed)
+# Pathogenic Samples
+- ERR1955462 - Pathogenic (Processed)
+```Details: STR26, STR75, PASS, END=71652202, REF=25, RL=25, RU=A, VARID=FXN_A```
+# Pending Samples
+- ERR1955504
+- ERR1955527
+- ERR1955415
+- ERR1955531
+- ERR1955473
+## Getting Started
+
+# Install the necessary tools: ```ExpansionHunter, SAMtools, and REViewer.```
+Ensure the reference genome and variant catalog are available in the specified paths.
+Follow the pipeline steps to process each sample.
+
+
+# How to Run the  the script or Pipeline ---- Easy way to run the script
+
+## Instructions to Use the Script
+# Save the script as pipeline_script.sh
+
+## Make the script executable:
+``` sh
+chmod +x pipeline_script.sh
+```
+# Run the Pipeline script
+```sh
+ ./pipeline_script.sh
+  ```
+
+# Contributors
+
+- ```Justice Ohene Amofa```
+- ```Comfort Ojedapo```
+
+
+# License
+This project is licensed under the [License](http://www.apache.org/licenses/) License - see the LICENSE file for details.
+
+## Acknowledgments
+
+``` ```
