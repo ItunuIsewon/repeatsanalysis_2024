@@ -2,10 +2,10 @@
 
 1.        Identify datasets
 a.        STR from African GB dataset
-https://datahub.ucsd.edu/user/dsi-student8/project2/AFR_GB.txt
+https://datahub.ucsd.edu/user/dsi-student8/edit/project2/AFR_GB.txt
 
 b.        Expression data from AFR-normalized expression
-https://datahub.ucsd.edu/user/dsi-student8/public/project2-association/dataset/AFR_normalized_and_filtered_hg38_chr11.csv
+https://datahub.ucsd.edu/user/dsi-student8/edit/public/project2-association/dataset/AFR_normalized_and_filtered_hg38_chr11.csv
 
 2.        Extract the right column from the dataset
 a.        From African GB grep out the TIMM10 STR that was significant from the results. It ends with 57528517
