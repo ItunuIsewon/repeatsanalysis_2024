@@ -1,0 +1,68 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww24940\viewh17120\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \cb2 \expnd0\expndtw0\kerning0
+1. \
+\
+/home/dsi-student4/bin/ExpansionHunter \\\
+    --reads ~/public/project1-expansions/ERR1955415.bam \\\
+    --reference ~/public/genomes/GRCh37.fa \\\
+    --variant-catalog ~/public/project1-expansions/variant_catalog/grch37/variant_catalog.json \\\
+    --output-prefix ERR1955415\
+\
+2. /home/dsi-student4/bin/samtools sort -o ERR1955415_realigned.sorted.bam ERR1955415_realigned.bam\
+\
+\
+# creates ERR1955424_realigned.sorted.bam.bai\
+\
+3:\
+\
+A. /home/dsi-student4/bin/samtools sort ERR1955415_realigned.bam -o ERR1955415_realigned_sorted.bam\
+\
+B. /home/dsi-student4/bin/samtools index ERR1955415_realigned.sorted.bam\
+\
+\
+4. /home/dsi-student4/bin/REViewer \\\
+    --reads ERR1955415_realigned.sorted.bam \\\
+    --vcf ERR1955415.vcf \\\
+    --reference ~/public/genomes/GRCh37.fa \\\
+    --catalog ~/public/project1-expansions/variant_catalog/grch37/variant_catalog.json \\\
+    --locus C9ORF72 \\\
+    --output-prefix ERR1955415\
+\
+\
+\
+\
+\
+\
+\
+\
+Directory of tools\
+\
+/home/dsi-student4/bin\
+\
+\
+\
+1. ERR1955514.bam *** Not Pathogenic-Normal\
+\
+2. ERR1955398.bam. *** Not Pathogenic- normal\
+3.ERR1955482 - Done  *** not Pathogenic - normal\
+4. ERR1955462 - Done \'97 Pathogenic \'97 (ERR1955462, <STR26>,<STR75> .       PASS    END=71652202;REF=25;RL=25;RU=A;VARID=FXN_A)\
+\
+5. ERR1955424 - Done \'97 Not pathogenic and normal\
+6.ERR1955504\
+7. ERR1955527\
+8. ERR1955415\
+9. ERR1955531\
+10. ERR1955473\
+\
+\
+\
+\
+\
+}
