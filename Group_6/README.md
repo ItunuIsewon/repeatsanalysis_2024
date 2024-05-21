@@ -1,15 +1,16 @@
 **Group 6 project stream 2.**
+
 **PROJECT TITLE**: Identifying trait-associated tandem repeats from the African population
 
-GROUP MEMBERS:
+**GROUP MEMBERS**:
 OSCAR NYANGIRI
 IRENE K YEBOAH
 EDILSON CANOMA
 
-Background
+**Background**
 Tandem repeats (TRs) are sequential lengths of repeated nucleotides which impact genomic variation and are associated with health and disease traits. Despite their importance, they are understudied due to challenges in genotyping. Africans are also under-represented in genomic TR characterization. The current work leverages recent technologies to compare TRs between Yoruba Africans and Europeans from the 1000 genomes project and their associations with gene expression.
 
-Methods
+**Methods**
 We used the HipSTR tool to genotype TR from short read sequencing data on chromosome 11 in 89 Africans from the African Yoruba sub-population and 363 Europeans. We compared the two populations for  
 i) the presence/absence of Tandem repeat loci, 
 ii) Frequency differences between the sub populations
