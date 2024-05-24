@@ -1,6 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-cayman
 
 title: [DS-I Africa Tandem Repeats Analysis Workshop 2024]
 description: [site for the 2024 tandem repeats analysis workshop]
+markdown: GFM
