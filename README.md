@@ -68,6 +68,3 @@ All participants were grouped into 8 groups and were given projects to carry out
 + [Group 7](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_7)
 + [Group 8](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_8)
 
-  
-## Workshop Report
-The workshop report can be accessed here: 
