@@ -6,48 +6,60 @@
 Four Universities, Covenant University, Makerere University, the University of Cape Town (UCT), and the University of California, San Diego (UCSD) are collaborating to present a two-week virtual workshop on repeat expansion detection and complex phenotypes association in Africa. This workshop is funded by the R01 DS-I Africa award number 1U01HG013442-01 and you can find more information about it at https://h3africa.org/index.php/2022/09/14/h3africa-cross-consortium-genome-analysis-of-repeat-expansions-in-wgs-data-project-spotlight/ and https://dsi-africa.org/project/28
 
 
-## Lecturers & Assistants:
-+ Prof. Adebiyi Ezekiel, Nigeria
-+ Prof. Melissa Gymrek, US
-+ Dr. Daudi Jjingo, Uganda
-+ Dr. Melissa Nel, South Africa
-+ Prof. Oyelade Olanrewaju, Nigeria
-+ Dr. Li Yang, US
-+ Ms Helyaneh Ziaei-jam, US
+## Trainers
++ Prof. Ezekiel Adebiyi, Nigeria
++ Prof. Olarenwaju Oyelade, Nigeria
++ Dr.  Itunuoluwa Isewon, Nigeria
 + Dr. Marion Adebiyi, Nigeria
 + Dr. Yagoub Adam, Sudan
-+ Dr. Isewon Itunuoluwa, Nigeria
++ Dr. Daudi Jjingo, Uganda
 + Mr. Ibra Lujumba, Uganda
++ Prof. Melissa Gymrek, USA
++ Dr. Li Yang, USA
++ Ms. Helyaneh Ziaei-jam, USA
++ Dr. Melissa Nel, South Africa
 + Ms. Nomakhosazana Monnakgotla, South Africa
 
-## Course content
+## Training Assistants
++ Zama Sinothando S'londiwe Mngadi, South Africa
++ Jerry Emmanuel, Nigeria
++ Faith Omolara Adegoke, Nigeria
++ Samuel Kwesi Tawiah Owusu-Ansah, Ghana
++ Walter Odur, Uganda
++ Fredrick E. Kakembo, Uganda
 
-The workshop will last for 10 days, which is equivalent to two weeks.
+## Course Overview
+### Workshop Timetable
+|**Module**|**Day**|**Lecture/Practical 1 (1 Hour)**|**Break (30 Mins)**|**Lecture/Practical 2 (1 Hour)**|**Research Talks (15 Mins)**|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+Module 1 | 1 Wed | A brief review of NGS and its technologies (L) | | Genotyping, genetic variation and its types, resources, and databases for NGS (L) |General Introductions of Training Team and Participants
+| | 2 Thurs | Bash/shell scripting, working in a batch environment, job submission on HPC, installing software and tools using the command line (L) | | NGS file format, NGS analysis tools  (P) | Ms. Nomakhosazana Monnakgotla Talk|
+Module 2| 3 Fri | Description of tandem repeats, types of TR, and their characteristics (L) | | The role of repeat expansions in neurological diseases (L) | Divide participants into Groups|
+| | 4 Mon | Short TR, STR genotyping (L) | | Tools for identifying STRs: strengths and weakness (P) | Brief description of the projects |
+Module 3 | 5 Tues | Introduction to ExpansionHunter (L) | | Installing and running ExpansionHunter (P) | Jumoke Adeyemi, Walter Odur Talk|
+| | 6 Wed | Introduction to HipSTR and TRTools  (L) | | Installing and using HipSTR/TRTools  (P) | | 
+| | 7 Thurs | Association Analysis (L) | | Association Analysis (P)| | 
+Module 4| 8 Fri | Projects team meeting | | Projects team meeting| | 
+| | 9 Mon | Presentation of project outcomes | | Presentation of project outcomes| |
+| | 10 Tues | Announcement of hackathon results | | Feedbacks + Closing | |
 
-### Module One – Introduction (Day 1 and 2)
-+ A brief review of NGS and its technologies, genotyping, genetic variation and its types, resources, and databases for NGS
-+ Bash/shell scripting, working in batch environment, job submission on HPC, installing software and tools using command line
-+ NGS file format, NGS analysis tools, e.g., bcftools
 
-### Module Two – Overview of Tandem Repeats (Day 3 and 4)
-+ Description of tandem repeats, types of TRs and their characteristics, applications of TRs in health research
-+ Short TRs (STRs) genotyping, tools for identifying STRs: strengths and weakness
+## Project Description
+### A detailed description of the projects can be found here:
++ Project 1 (For Groups 1 - 4) []
++ Project 2 (For Groups 5 - 8) []
 
-### Module Three – STRs Analysis (Day 5 – 7)
-+ Software Installation of selected tools
-+ STRs identification using selected tools, at least two
-+ Functional annotation of identified STRs
-+ Association Analysis
 
-### Module Four  – Hackathon (Day 8 – 10)
-+ Brief description of the projects (motivation, datasets, methods, milestones, expected results, etc) – (to be done on Day 4)
-+ Assigning the participants into groups and one teaching assistant per group – (to be done on Day 4)
-+ Project teams start meeting up with their teaching assistants after the daily sessions as from Day 5.
-+ Participants work in groups.
-+ Daily review of work done to be presented by a group representative following the milestones/deliverables for each day.
-+ Presentation of project outcomes and submission of project write-up
-+ Announcement of hackathon results
+## Projects Results Submission by Participants
+All participants were grouped into 8 groups and were given projects to carry out. A group member pushed the results for each group to their respective folders on the GitHub repository. Each group's result can be found in these folders:
 
-### Invited Talks from Keynote and invited  speakers (30-minute – 1-hour slots will be created as needed during the workshop)
-We expect to have invited talks from selected PhD students, Postdocs, and keynote speakers on selected topics relating to TRs identification.
-Potential speakers are those who have developed tools/databases for TRs and those who have used the tools for TRs analyses, etc.
++ [Group 1] (repeatsanalysis_2024/Group_4/)
++ [Group 2] (Group_2)
++ [Group 3] (Group_3)
++ [Group 4] (Group_4)
++ Group 5 [https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_5]
++ Group 6 [https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_6]
++ Group 7 [https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_7]
++ Group 8 [https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_8]
+
+  
