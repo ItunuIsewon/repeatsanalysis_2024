@@ -46,21 +46,26 @@ Module 4| 8 Fri | Projects team meeting | | Projects team meeting| |
 
 ## Project Description
 ### A detailed description of the projects can be found here:
-+ Project 1 (For Groups 1 - 4) []
-+ Project 2 (For Groups 5 - 8) []
++ **Project 1 (For Groups 1 - 4)**
+    + [Project Instruction](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/PROJECT1-INSTRUCTIONS.pdf)
+    + [Project Setup](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/PROJECT1-SETUP.pdf)
+       
++ **Project 2 (For Groups 5 - 8)**
+    + [Project Instruction](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/PROJECT2-INSTRUCTIONS.pdf)
+    + [Project Setup](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/PROJECT2-SETUP.pdf)
 
 
 ## Projects Results Submission by Participants
 All participants were grouped into 8 groups and were given projects to carry out. A group member pushed the results for each group to their respective folders on the GitHub repository. Each group's result can be found in these folders:
 
-+ [Group 1] (repeatsanalysis_2024/Group_4/)
-+ [Group 2] (Group_2)
-+ [Group 3] (Group_3)
-+ [Group 4] (Group_4)
-+ Group 5 [https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_5]
-+ Group 6 [https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_6]
-+ Group 7 [https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_7]
-+ Group 8 [https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_8]
++ [Group 1](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_1)
++ [Group 2](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_2)
++ [Group 3](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_3)
++ [Group 4](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_4)
++ [Group 5](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_5)
++ [Group 6](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_6)
++ [Group 7](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_7)
++ [Group 8](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_8)
 
   
 ## Workshop Report
