@@ -49,7 +49,7 @@ Module 4| 8 Fri | Projects team meeting | | Projects team meeting| |
 + **Project 1 (For Groups 1 - 4)**
     + [Project Instruction](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/Project1-Instruction.md)
       
-    + [Project Setup](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/PROJECT1-SETUP.pdf)
+    + [Project Setup](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/Project1-Setup.md)
        
 + **Project 2 (For Groups 5 - 8)**
     + [Project Instruction](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/PROJECT2-INSTRUCTIONS.pdf)
