@@ -47,13 +47,13 @@ Module 4| 8 Fri | Projects team meeting | | Projects team meeting| |
 ## Project Description
 ### A detailed description of the projects can be found here:
 + **Project 1 (For Groups 1 - 4)**
-    + [Project 1 Instruction](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/Project1-Instruction.md)
+    + [Project 1 Instruction](Projects_Description/Project1-Instruction.md)
       
-    + [Project 1 Setup](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/Project1-Setup.md)
+    + [Project 1 Setup](Projects_Description/Project1-Setup.md)
        
 + **Project 2 (For Groups 5 - 8)**
-    + [Project 2 Instruction](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/Project2-Instruction.md)
-    + [Project 2 Setup](https://github.com/ItunuIsewon/repeatsanalysis_2024/blob/main/Projects_Description/Project2-Setup.md)
+    + [Project 2 Instruction](Projects_Description/Project2-Instruction.md)
+    + [Project 2 Setup](Projects_Description/Project2-Setup.md)
 
 
 ## Projects Results Submission by Participants
