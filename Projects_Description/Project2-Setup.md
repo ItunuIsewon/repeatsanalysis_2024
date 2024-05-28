@@ -4,7 +4,7 @@
 + HipSTR
 + TRTools
 
-Below shows how to install each of these and test that it is working on your datahub account.
+Below is how to install each of these and test that it is working on your DataHub account.
 
 ### HipSTR
 + Download the GitHub repository
