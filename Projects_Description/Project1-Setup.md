@@ -1,4 +1,4 @@
-# Project 1 Setup
+# Project 1 - Identification of pathogenic disease-associated short tandem repeats (STRs) in clinical samples Setup
 ## 1. Installing required tools 
 
 ### Project 1 will require the following tools: 
