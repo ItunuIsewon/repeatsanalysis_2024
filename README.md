@@ -53,6 +53,7 @@ Module 4| 8 Fri | Projects team meeting | | Projects team meeting| |
        
 + **Project 2 (For Groups 5 - 8)**
     + [Project 2 Instruction](Projects_Description/Project2-Instruction.md)
+      
     + [Project 2 Setup](Projects_Description/Project2-Setup.md)
 
 
