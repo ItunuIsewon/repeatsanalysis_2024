@@ -1,8 +1,7 @@
 DSI-Africa: First Human Genome Repeat Expansions Analysis Virtual Workshop
 May 8-21, 2024
-Group Project Description
 
-Stream 1 (Groups 1-4)
+Stream 1 (Groups 4)
 
 Project Title: Identification of pathogenic disease-associated short tandem repeats (STRs) in clinical samples
 
