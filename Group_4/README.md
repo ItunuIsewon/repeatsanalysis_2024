@@ -23,4 +23,4 @@ Fig 2. Read depth for sample ERR1955473 with  STR expansion in the pathogenic ra
 
 ## Contributors
 
-James Osei-Mensa (oseimensa@kccr.de, oseimensa@outlook.com)
+James Osei-Mensa (oseimensa@kccr.de, ![GitHub](https://github.com/Aduboahen))
