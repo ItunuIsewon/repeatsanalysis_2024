@@ -7,6 +7,9 @@ Four Universities, Covenant University, Makerere University, the University of C
 
 
 ## Trainers
++ [Prof. Melissa Gymrek](https://scholar.google.com/citations?user=nonLWiYAAAAJ&hl=en), USA
++ [Dr. Melissa Nel](https://scholar.google.co.za/citations?user=0wFZ1yUAAAAJ&hl=en), South Africa
++ [Ms. Helyaneh Ziaei-jam](https://scholar.google.com/citations?user=OND0p_MAAAAJ&hl=en), USA
 + [Prof. Ezekiel Adebiyi](https://scholar.google.com/citations?user=UNPJMpUAAAAJ&hl=en), Nigeria
 + [Prof. Olarenwaju Oyelade](https://scholar.google.com/citations?user=oj6Uky4AAAAJ&hl=en), Nigeria
 + [Dr.  Itunuoluwa Isewon](https://scholar.google.com/citations?user=haW6Ux8AAAAJ&hl=en), Nigeria
@@ -14,10 +17,7 @@ Four Universities, Covenant University, Makerere University, the University of C
 + [Dr. Yagoub Adam](https://scholar.google.com/citations?user=HWI3o-0AAAAJ&hl=en), Sudan
 + [Dr. Daudi Jjingo](https://scholar.google.com/citations?user=JdgEJygAAAAJ&hl=en), Uganda
 + Mr. Ibra Lujumba, Uganda
-+ [Prof. Melissa Gymrek](https://scholar.google.com/citations?user=nonLWiYAAAAJ&hl=en), USA
 + Dr. Li Yang, USA
-+ [Ms. Helyaneh Ziaei-jam](https://scholar.google.com/citations?user=OND0p_MAAAAJ&hl=en), USA
-+ [Dr. Melissa Nel](https://scholar.google.co.za/citations?user=0wFZ1yUAAAAJ&hl=en), South Africa
 + Ms. Nomakhosazana Monnakgotla, South Africa
 
 ## Training Assistants
