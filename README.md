@@ -60,12 +60,7 @@ Module 4| 8 Fri | Projects team meeting | | Projects team meeting| |
 ## Projects Results Submission by Participants
 All participants were grouped into 8 groups and were given projects to carry out. A group member pushed the results for each group to their respective folders on the GitHub repository. Each group's result can be found in these folders:
 
-+ [Group 1](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_1)
 + [Group 2](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_2)
-+ [Group 3](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_3)
-+ [Group 4](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_4)
-+ [Group 5](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_5)
 + [Group 6](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_6)
-+ [Group 7](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_7)
 + [Group 8](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_8)
 
