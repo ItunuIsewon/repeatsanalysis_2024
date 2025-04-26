@@ -32,9 +32,9 @@ Four Universities, Covenant University, Makerere University, the University of C
 ### Workshop Timetable
 |**Module**|**Day**|**Lecture/Practical 1 (1 Hour)**|**Break (30 Mins)**|**Lecture/Practical 2 (1 Hour)**|**Research Talks (15 Mins)**|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-Module 1 | 1 Wed | A brief review of NGS and its technologies (L) | | Genotyping, genetic variation and its types, resources, and databases for NGS (L) |General Introductions of Training Team and Participants
-| | 2 Thurs | Bash/shell scripting, working in a batch environment, job submission on HPC, installing software and tools using the command line (L) | | NGS file format, NGS analysis tools  (P) | Ms. Nomakhosazana Monnakgotla Talk|
-Module 2| 3 Fri | Description of tandem repeats, types of TR, and their characteristics (L) | | The role of repeat expansions in neurological diseases (L) | Divide participants into Groups|
+Module 1 | 1 Wed | A brief review of NGS and its technologies (L) - Ms Faith Adegoke | | Genotyping, genetic variation and its types, resources, and databases for NGS (L) - Prof. Jelili Oyelade |General Introductions of Training Team and Participants
+| | 2 Thurs | Bash/shell scripting, working in a batch environment, job submission on HPC, installing software and tools using the command line (L) - Dr. Marion Adebiyi & Ms. Faith Adegoke | | NGS file format, NGS analysis tools  (P) - Dr. Marion Adebiyi & Ms. Faith Adegoke | Ms. Nomakhosazana Monnakgotla Research Talk|
+Module 2| 3 Fri | Description of tandem repeats, types of TR, and their characteristics (L) - Dr. Daudi Jjingo & Mr. Walter Odur | | The role of repeat expansions in neurological diseases (L) | Divide participants into Groups|
 | | 4 Mon | Short TR, STR genotyping (L) | | Tools for identifying STRs: strengths and weakness (P) | Brief description of the projects |
 Module 3 | 5 Tues | Introduction to ExpansionHunter (L) | | Installing and running ExpansionHunter (P) | Jumoke Adeyemi, Walter Odur Talk|
 | | 6 Wed | Introduction to HipSTR and TRTools  (L) | | Installing and using HipSTR/TRTools  (P) | | 
