@@ -1,19 +1,19 @@
 # DSI-Africa: First Human Genome Repeat Expansions Analysis Virtual Workshop
 
-<img src="Images/dsi-africa-workshop-banner.png" alt="Alt text" width="500">
+<img src="Images/dsi-africa-workshop-banner.png" alt="Alt text" width="700">
 
 
 Four Universities, Covenant University, Makerere University, the University of Cape Town (UCT), and the University of California, San Diego (UCSD) are collaborating to present a two-week virtual workshop on repeat expansion detection and complex phenotypes association in Africa. This workshop is funded by the R01 DS-I Africa award number 1U01HG013442-01 and you can find more information about it at https://h3africa.org/index.php/2022/09/14/h3africa-cross-consortium-genome-analysis-of-repeat-expansions-in-wgs-data-project-spotlight/ and https://dsi-africa.org/project/28
 
 
 ## Training Team
-<img src="Images/CU_Team.png" alt="Alt text" width="500">
+<img src="Images/CU_Team.png" alt="Alt text" width="700">
 
-<img src="Images/UCSD_Team.png" alt="Alt text" width="500">
+<img src="Images/UCSD_Team.png" alt="Alt text" width="700">
 
-<img src="Images/UCT_Team.png" alt="Alt text" width="500">
+<img src="Images/UCT_Team.png" alt="Alt text" width="700">
 
-<img src="Images/MU_Team.png" alt="Alt text" width="500">
+<img src="Images/MU_Team.png" alt="Alt text" width="700">
 
 ## Course Overview
 ### Workshop Timetable
