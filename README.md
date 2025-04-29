@@ -9,11 +9,11 @@ Four Universities, Covenant University, Makerere University, the University of C
 ## Training Team
 <img src="Images/CU_Team.png" alt="Alt text" width="700">
 
-<img src="Images/UCSD_Team.png" alt="Alt text" width="700">
+<img src="Images/MU_Team.png" alt="Alt text" width="700">
 
 <img src="Images/UCT_Team.png" alt="Alt text" width="700">
 
-<img src="Images/MU_Team.png" alt="Alt text" width="700">
+<img src="Images/UCSD_Team.png" alt="Alt text" width="700">
 
 ## Course Overview
 ### Workshop Timetable
