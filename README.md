@@ -28,7 +28,7 @@ Module 3 | 5 Tues | Introduction to ExpansionHunter (L) - Ms. Helyaneh Ziaei-jam
 | | 7 Thurs | Association Analysis (L) - Dr. Melissa Gymrek [Video](https://drive.google.com/file/d/1EQaeCpnwKgD902MTtddi_VYI9ewEka3P/view?usp=sharing) , [Slides](https://docs.google.com/presentation/d/1XTGAG3nHEsAv53wkmFbYPIeDRo9P4zGV/edit?slide=id.p1#slide=id.p1)| | Association Analysis (P) - Ms. Helyaneh Ziaei-jam [Video](https://drive.google.com/file/d/1AEn8vgK_sVVutygyub7CbGdgogLfVTpl/view?usp=sharing)| Research Talk - Ms. Helyaneh Ziaei-jam [Video](https://drive.google.com/file/d/1D1cOp6N5Pk2tFcOSzOrGP-2i9WfeKsE_/view?usp=sharing) | 
 Module 4| 8 Fri | Projects team meeting | | Projects team meeting| | 
 | | 9 Mon | Presentation of project outcomes [Video](https://drive.google.com/file/d/1lz5ZLgx1eKoL468-3S7HArey0LAuTdue/view?usp=sharing) | | Presentation of project outcomes [Video](https://drive.google.com/file/d/1HY2tp5SNarovzqaZpUZ6i3BEjJYN_R9P/view?usp=sharing)| |
-| | 10 Tues | Announcement of hackathon results | | Feedbacks + Closing [Slides](https://drive.google.com/file/d/1ROLJGmCjwxxoXM8wzC5Hf1LJ8nv_3ZAf/view?usp=sharing) | |
+| | 10 Tues | Announcement of hackathon results | | Feedbacks + Closing - Dr. Itunuoluwa Isewon [Video](https://drive.google.com/file/d/1ROLJGmCjwxxoXM8wzC5Hf1LJ8nv_3ZAf/view?usp=sharing) , [Slides](https://drive.google.com/file/d/1ROLJGmCjwxxoXM8wzC5Hf1LJ8nv_3ZAf/view?usp=sharing) | |
 
 
 ## Project Description
