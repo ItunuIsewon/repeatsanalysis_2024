@@ -1,6 +1,6 @@
 # Brief Report
 
-This is a brief report about the workshop activity including some insights gained from the experience.
+This is a brief report about the workshop activity, including some insights gained from the experience. It provides an overview of the workshop, including the selection of participants, the course strategy, and sessions that were challenging for the participants.
 
 ## Pre-workshop modalities
 
@@ -11,15 +11,17 @@ Social media platforms, such as Facebook and Twitter, were leveraged to dissemin
 
 ## Participants Selection 
 
-The call for applications attracted a strong pool of applicants with expertise in bioinformatics, computer science, electronic and information engineering (EIE), statistics, and mathematics.  
+With limited available slots (30 out of 87 applicants), the selection process focused on diversifying the participant pool to achieve better representation of gender and countries for this workshop. Thirty percent of the selected participants (9 out of 30) were female, while 70% were male. The call for applications attracted a strong pool of applicants with expertise in bioinformatics, computer science, electronic and information engineering (EIE), statistics, and mathematics.  
 A significant portion demonstrated intermediate to advanced computational proficiency, with the majority being in bioinformatics (Figure 1), aligning well with the workshop's focus. 
-With limited available slots (30 out of 87 applicants), the selection process focused on diversifying the participant pool to achieve better representation of gender and countries for this workshop. 
-Thirty percent of the selected participants (9 out of 30) were female, while 70% were male.
+
+<img src="Images/Participants_Proficiency.png" alt="Alt text" width="500">
 
 ## Workshop Engagement
 
 The workshop employed a balanced engagement strategy, with a strong emphasis on hands-on activities (47.6%), resulting in active participation and practical learning. 
 Lectures (38.1%) provided foundational knowledge, while research presentations (14.3%) facilitated knowledge sharing and academic discussion. This approach ensured a dynamic and interactive learning environment.
+
+<img src="Images/Workshop_engagement.png" alt="Alt text" width="500">
 
 ## Challenging Workshop Sessions
 
@@ -27,3 +29,5 @@ At least 17% of the successful participants (n = 17) considered their knowledge 
 The survey further probed the challenges of the successful participants to identify which training modules were most challenging (Figure 6). Over 40% identified the workshop project as the most demanding aspect of the assignment. 
 Specific issues revolved around difficulties with effective team collaboration, performing association analysis, and interpreting the results. While a smaller group, representing 29% of participants, found the hands-on demonstrations challenging, the primary concern was navigating the various HPC platforms. 
 Some 17 per cent (3 out of 17) of participants struggled to follow the lectures, citing an inability to maintain focus throughout the sessions.  Encouragingly, at least 10% of successful participants reported no significant challenges throughout the workshop. 
+
+<img src="Images/Challenging_sessions.png" alt="Alt text" width="500">
