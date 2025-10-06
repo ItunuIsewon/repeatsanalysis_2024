@@ -45,9 +45,13 @@ Module 4| 8 Fri | Projects team meeting | | Projects team meeting| |
 
 
 ## Projects Results Submission by Participants
-All participants were grouped into 8 groups and were given projects to carry out. A group member pushed the results for each group to their respective folders on the GitHub repository. Each group's result can be found in these folders:
+All participants were grouped into eight groups and were assigned projects to complete. A group member pushed the results for each group to their respective folders on the GitHub repository. Each group's result can be found in these folders:
 
 + [Group 2](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_2)
 + [Group 6](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_6)
 + [Group 8](https://github.com/ItunuIsewon/repeatsanalysis_2024/tree/main/Group_8)
 
+## Brief Report
+This report gives a highlight of some of the workshop's modalities.
+
+[A Brief Report](Brief_Report.md)
